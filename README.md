@@ -16,6 +16,29 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 <!-- TODO, add picture here -->
 <!--Remember to dump an image in this path-->
+<p align="center">
+<img src="https://i.imgur.com/kZbvOWz.png">
+</p>
+
+
+## Flow
+<!--Add new flow steps based on the architecture diagram-->
+<!-- 1. Upload and Instantiate smart contracts via the Bluemix Network Monitor
+2. Deploy the node application locally or on bluemix
+3. Input connection information such as service credentials, endpoint, etc into configuration form
+4. Submitting form sends a request to pull a json file containing the connection profile. The information from this profile is used to create a "monitoring" client with administrative privileges
+
+5. If form data is valid, user should be able to execute Chaincode operations, view individual blocks and their data, and request state of registered Assets -->
+
+1. "End Node" device captures sensor data in the field
+
+2. Captured data is sent through through a wireless protocol to a gateway
+
+3. Gateway forwards data to IoT platform
+
+4. Data packets received by IoT Platform are archived in Cloudant
+
+5. Watson Studio imports archived data and processes data via Juypter notebooks
 
 ## Install Prerequisites:
 
