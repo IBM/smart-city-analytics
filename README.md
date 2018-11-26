@@ -17,7 +17,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 <!-- TODO, add picture here -->
 <!--Remember to dump an image in this path-->
 <p align="center">
-<img src="https://i.imgur.com/kZbvOWz.png">
+<img src="https://i.imgur.com/PlKQuBC.png">
 </p>
 
 
