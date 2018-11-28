@@ -48,27 +48,6 @@ If expecting to run this application locally, please install python and pip, and
 pip install matplotlib pandas numpy
 ```
 <!--Update this section-->
-## Included components
-* [Cloudant DB](https://console.bluemix.net/catalog/services/cloudant)
-* [Watson Studio](https://console.bluemix.net/catalog/services/watson-studio)
-<!--Update this section-->
-## Featured technologies
-<!-- Select components from [here](https://github.ibm.com/developer-journeys/journey-docs/tree/master/_content/dev#technologies), copy and paste the raw text for ease -->
-* [pandas](https://pandas.pydata.org/)
-* [matplotlib](https://matplotlib.org/)
-* [leaflet.js](https://leafletjs.com/)
-* [jupyter](http://jupyter.org/)
-
-<!--Update this section when the video is created-->
-<!-- # Watch the Video
-In progress -->
-
-
-# Steps
-1. [Create IBM services](#3-create-services)
-<!-- 4. [Upload and Instantiate Chaincode](#4-upload-and-instantiate-chaincode) -->
-2. [Load Jupyter notebook](#5-run-the-application)
-3. [Download and explore dataset](#5-run-the-application)
 
 ## 1. Create Services
 
@@ -223,17 +202,6 @@ In conclusion, this notebook offers a few different examples of ways that develo
 <!-- We can use the `.unique()` method to remove duplicates to view unique values in a column. For example, we can get a list of states by selecting the 'State Name' index. -->
 
 # Troubleshooting
-
-# Links
-<!-- * [Demo on Youtube](https://www.youtube.com/watch?v=Jxi7U7VOMYg) -->
-
-<!-- pick the relevant ones from below -->
-# Learn more
-
-* **IoT Code Patterns**: Enjoyed this Code Pattern? Check out our other [IoT Code Patterns](https://developer.ibm.com/code/technologies/iot/).
-* **Emerging Tech Code Pattern Playlist**: Bookmark our [playlist](https://www.youtube.com/playlist?list=PLzUbsvIyrNfkmf4_91eLqELe6e0tFR_9W) with all of our Code Pattern videos
-
-<!--keep this-->
 
 # License
 [Apache 2.0](LICENSE)
