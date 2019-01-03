@@ -16,10 +16,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 <!-- TODO, add picture here -->
 <!--Remember to dump an image in this path-->
-<p align="center">
-<img src="https://i.imgur.com/PlKQuBC.png">
-</p>
-
+![](https://wdc.objectstorage.softlayer.net/v1/AUTH_7046a6f4-79b7-4c6c-bdb7-6f68e920f6e5/Code-Patterns/analyze-large-data-sets-iot-lorawan/images/lora-analyze-arch-diagram4.png)
 
 ## Flow
 <!--Add new flow steps based on the architecture diagram-->
