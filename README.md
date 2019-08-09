@@ -16,10 +16,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 <!-- TODO, add picture here -->
 <!--Remember to dump an image in this path-->
-<p align="center">
-<img src="https://i.imgur.com/PlKQuBC.png">
-</p>
-
+![](https://wdc.objectstorage.softlayer.net/v1/AUTH_7046a6f4-79b7-4c6c-bdb7-6f68e920f6e5/Code-Patterns/analyze-large-data-sets-iot-lorawan/images/lora-analyze-arch-diagram4.png)
 
 ## Flow
 <!--Add new flow steps based on the architecture diagram-->
@@ -204,6 +201,6 @@ In conclusion, this notebook offers a few different examples of ways that develo
 # Troubleshooting
 
 # License
-This code pattern is licensed under the Apache Software License, Version 2. Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the Developer [Certificate of Origin, Version 1.1 (“DCO”)] (https://developercertificate.org/) and the [Apache Software License, Version 2]( (http://www.apache.org/licenses/LICENSE-2.0.txt).
+This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](http://www.apache.org/licenses/LICENSE-2.0.txt).
 
-ASL FAQ link: http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN
+[Apache Software License (ASL) FAQ](http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
