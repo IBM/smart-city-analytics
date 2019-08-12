@@ -52,7 +52,7 @@ First, we'll need to deploy a "Watson Studio" service instance. This service off
 
 ### Watson Studio
 
-Navigate to the IBM Cloud dashboard at [https://console.bluemix.net/](https://console.bluemix.net/) and click the "Catalog" button in the upper right
+Navigate to the IBM Cloud dashboard at [https://cloud.ibm.com/](https://cloud.ibm.com/) and click the "Catalog" button in the upper right
 <p align="center">
 <img src="https://i.imgur.com/vFCHSF4.png">
 </p>
