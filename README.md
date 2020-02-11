@@ -16,7 +16,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 <!-- TODO, add picture here -->
 <!--Remember to dump an image in this path-->
-![](https://wdc.objectstorage.softlayer.net/v1/AUTH_7046a6f4-79b7-4c6c-bdb7-6f68e920f6e5/Code-Patterns/analyze-large-data-sets-iot-lorawan/images/lora-analyze-arch-diagram4.png)
+![](https://developer.ibm.com/developer/patterns/analyze-large-data-sets-iot-lorawan/images/lora-analyze-arch-diagram4.png)
 
 ## Flow
 <!--Add new flow steps based on the architecture diagram-->
@@ -72,25 +72,31 @@ Once the service has been provisioned, select the "Get Started" button to enter 
 <img src="https://i.imgur.com/LvP6agV.png">
 </p>
 
-Once the Watson Studio dashboard has loaded, click the "New" button to create a project.
+Once the Watson Studio dashboard has loaded, scroll to the "Projects" section and click "New Projects" to create a project.
 <p align="center">
-<img src="https://i.imgur.com/BoEQ50o.png">
+<img src="https://i.imgur.com/Rri6pLW.png">
+</p>
+
+
+Select a "Empty Project" as the project type
+<p align="center">
+<img src="https://i.imgur.com/JiuwzT1.png" />
 </p>
 
 Enter a project name, and then click "Create"
 <p align="center">
-<img src="https://i.imgur.com/IA7VLxt.png">
+<img src="https://i.imgur.com/azXR1mo.png">
 </p>
 
-Once the project has been created, a dashboard showing all the project assets will be displayed. We'll continue by adding a Juypter notebook to our project. This can be done by scrolling down to the "Notebooks" section and clicking "New Notebook"
+Once the project has been created, a dashboard showing all the project assets will be displayed. We'll continue by adding a Juypter notebook to our project. This can be done by clicking the "Add to project" button and then clicking "New Notebook"
 <p align="center">
-<img src="https://i.imgur.com/bK5NflC.png">
+<img src="https://i.imgur.com/3M87VSQ.png">
 </p>
 
 To import the notebook from this repository, select the "From URL" option and enter the name and URL
 
 <p align="center">
-<img src="https://i.imgur.com/3D4mw2k.png">
+<img src="https://i.imgur.com/vXLZ2Ly.png">
 </p>
 
 ### Watson Studio Notebook
