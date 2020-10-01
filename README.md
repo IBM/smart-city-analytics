@@ -4,7 +4,7 @@
 <!-- [![Build Status](https://travis-ci.org/IBM/watson-banking-chatbot.svg?branch=master)](https://travis-ci.org/IBM/watson-banking-chatbot) -->
 
 <!--Add a new Title and fill in the blanks -->
-# IoT - Big Data Analysis
+# IoT - Big Data Analysis using python libraries
 
 In this Code Pattern composite, we'll demonstrate how to analyze large datasets with Python data science packages. We'll provide an example use case of analyzing hourly air quality data provided by the EPA.
 
